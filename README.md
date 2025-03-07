@@ -1,3 +1,5 @@
+<img src="logo.png" class="logo" width="120"/>
+
 <h1 align="center">Hi 👋, I'm Nachiket Talekar</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
