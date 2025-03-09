@@ -1,4 +1,4 @@
-<img align="center" src="logobg.png" class="logo" width="1200" height="240"/>
+
 
 <h2 align="center">Hello 👋, I'm Nachiket Talekar</h2>
 <h3 align="left">Connect with me:</h3>
